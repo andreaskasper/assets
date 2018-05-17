@@ -1,0 +1,18 @@
+{
+  "de": {
+    "name": {
+      "native": "deutsch",
+      "en": "german",
+      "de": "deutsch"
+    },
+    "icon3": "DEU"
+  },
+  "en": {
+    "name": {
+      "native": "english",
+      "en": "english",
+      "de": "englisch"
+    },
+    "icon3": "GBR"
+  }
+}
