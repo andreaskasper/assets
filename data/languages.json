@@ -1,18 +1,105 @@
 {
+  "ar": {
+    "name": {
+      "native": null,
+	  "de": "arabisch"
+    },
+    "icon3": "EGY"
+  },
+  "da": {
+    "name": {
+      "native": null,
+	  "de": "dänisch"
+    },
+    "icon3": "DNK"
+  },
+  "ca": {
+    "name": {
+      "native": null,
+	  "de": "katalanisch"
+    },
+    "icon3": "AND"
+  },
   "de": {
     "name": {
       "native": "deutsch",
-      "en": "german",
-      "de": "deutsch"
+	  "de": "deutsch",
+      "en": "german"
     },
     "icon3": "DEU"
   },
   "en": {
     "name": {
       "native": "english",
-      "en": "english",
-      "de": "englisch"
+      "de": "englisch",
+	  "en": "english"
     },
-    "icon3": "GBR"
+    "icon3": "USA"
+  },
+  "es": {
+    "name": {
+      "native": "Español",
+      "de": "spanisch",
+	  "en": "spanish"
+    },
+    "icon3": "ESP"
+  },
+  "fr": {
+    "name": {
+      "native": "français",
+	  "de": "französisch",
+      "en": "french",
+	  "fr": "français"
+    },
+    "icon3": "FRA"
+  },
+  "ja": {
+    "name": {
+      "native": null,
+	  "de": "japanisch"
+    },
+    "icon3": "JAP"
+  },
+  "lv": {
+    "name": {
+      "native": null,
+	  "de": "lettisch"
+    },
+    "icon3": "LVA"
+  },
+  "nl": {
+    "name": {
+      "native": null,
+	  "de": "holländisch"
+    },
+    "icon3": "NLD"
+  },
+  "pt": {
+    "name": {
+      "native": null,
+	  "de": "portugiesisch"
+    },
+    "icon3": "PRT"
+  },
+  "ru": {
+    "name": {
+      "native": null,
+	  "de": "russisch"
+    },
+    "icon3": "RUS"
+  },
+  "sv": {
+    "name": {
+      "native": null,
+	  "de": "schwedisch"
+    },
+    "icon3": "SWE"
+  },
+  "uk": {
+    "name": {
+      "native": null,
+	  "de": "ukrainisch"
+    },
+    "icon3": "UKR"
   }
 }
