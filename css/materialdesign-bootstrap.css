@@ -1,4 +1,7 @@
-/* https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors */
+/* https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors 
+ *
+ * Examples: background-color: var(--color-md-red-900);  color: var(--color-md-red-900);
+ */
 
 :root {
     --color-md-red-50: #FFEBEE;
