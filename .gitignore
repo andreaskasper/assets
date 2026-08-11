@@ -1,0 +1,4 @@
+# Upstream responses cached by the generators in tools/
+tools/.cache/
+__pycache__/
+*.pyc
