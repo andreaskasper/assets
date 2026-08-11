@@ -1,0 +1,50 @@
+name: Regenerate data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # First of the month, 04:00 UTC. Population figures, ISO 4217 withdrawals
+    # and new tzdb releases arrive whether or not anyone is looking.
+    - cron: "0 4 1 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: regenerate-data
+  cancel-in-progress: false
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tzdata
+        run: pip install tzdata
+
+      - name: Rebuild every data file
+        run: python3 tools/build.py
+
+      - name: Show what changed
+        run: git --no-pager diff --stat -- data/
+
+      - name: Commit
+        run: |
+          if git diff --quiet -- data/; then
+            echo "Data already up to date; nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Regenerate data from upstream sources
+
+          Sources: mledoze/countries (ODbL), ISO 4217 via SIX, Unicode CLDR,
+          ISO 639-2 registry, Wikidata (CC0), IANA tzdata, Google
+          libaddressinput."
+          git push
