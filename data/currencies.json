@@ -1,0 +1,3288 @@
+{
+  "AED": {
+    "name": {
+      "en": "United Arab Emirates Dirham",
+      "de": "VAE-Dirham"
+    },
+    "symbol": "AED",
+    "symbolNarrow": null,
+    "numeric": "784",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ARE"
+    ]
+  },
+  "AFN": {
+    "name": {
+      "en": "Afghan Afghani",
+      "de": "Afghanischer Afghani"
+    },
+    "symbol": "AFN",
+    "symbolNarrow": "؋",
+    "numeric": "971",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "AFG"
+    ]
+  },
+  "ALL": {
+    "name": {
+      "en": "Albanian Lek",
+      "de": "Albanischer Lek"
+    },
+    "symbol": "ALL",
+    "symbolNarrow": null,
+    "numeric": "008",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ALB"
+    ]
+  },
+  "AMD": {
+    "name": {
+      "en": "Armenian Dram",
+      "de": "Armenischer Dram"
+    },
+    "symbol": "AMD",
+    "symbolNarrow": "֏",
+    "numeric": "051",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ARM"
+    ]
+  },
+  "ANG": {
+    "name": {
+      "en": "Netherlands Antillean Guilder",
+      "de": "Niederländische-Antillen-Gulden"
+    },
+    "symbol": "ANG",
+    "symbolNarrow": null,
+    "numeric": "532",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [
+      "CUW",
+      "SXM"
+    ],
+    "until": "2025-03",
+    "successor": "XCG"
+  },
+  "AOA": {
+    "name": {
+      "en": "Angolan Kwanza",
+      "de": "Angolanischer Kwanza"
+    },
+    "symbol": "AOA",
+    "symbolNarrow": "Kz",
+    "numeric": "973",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "AGO"
+    ]
+  },
+  "ARS": {
+    "name": {
+      "en": "Argentine Peso",
+      "de": "Argentinischer Peso"
+    },
+    "symbol": "ARS",
+    "symbolNarrow": "$",
+    "numeric": "032",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ARG"
+    ]
+  },
+  "ATS": {
+    "name": {
+      "en": "Austrian Schilling",
+      "de": "Österreichischer Schilling"
+    },
+    "symbol": "ATS",
+    "symbolNarrow": null,
+    "numeric": "040",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "AUD": {
+    "name": {
+      "en": "Australian Dollar",
+      "de": "Australischer Dollar"
+    },
+    "symbol": "A$",
+    "symbolNarrow": "$",
+    "numeric": "036",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "AUS",
+      "CCK",
+      "CXR",
+      "HMD",
+      "KIR",
+      "NFK",
+      "NRU",
+      "TUV"
+    ]
+  },
+  "AWG": {
+    "name": {
+      "en": "Aruban Florin",
+      "de": "Aruba-Florin"
+    },
+    "symbol": "AWG",
+    "symbolNarrow": null,
+    "numeric": "533",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ABW"
+    ]
+  },
+  "AZN": {
+    "name": {
+      "en": "Azerbaijani Manat",
+      "de": "Aserbaidschan-Manat"
+    },
+    "symbol": "AZN",
+    "symbolNarrow": "₼",
+    "numeric": "944",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "AZE"
+    ]
+  },
+  "BAM": {
+    "name": {
+      "en": "Bosnia-Herzegovina Convertible Mark",
+      "de": "Konvertible Mark Bosnien und Herzegowina"
+    },
+    "symbol": "BAM",
+    "symbolNarrow": "KM",
+    "numeric": "977",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BIH"
+    ]
+  },
+  "BBD": {
+    "name": {
+      "en": "Barbadian Dollar",
+      "de": "Barbados-Dollar"
+    },
+    "symbol": "BBD",
+    "symbolNarrow": "$",
+    "numeric": "052",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BRB"
+    ]
+  },
+  "BDT": {
+    "name": {
+      "en": "Bangladeshi Taka",
+      "de": "Bangladesch-Taka"
+    },
+    "symbol": "BDT",
+    "symbolNarrow": "৳",
+    "numeric": "050",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BGD"
+    ]
+  },
+  "BEF": {
+    "name": {
+      "en": "Belgian Franc",
+      "de": "Belgischer Franc"
+    },
+    "symbol": "BEF",
+    "symbolNarrow": null,
+    "numeric": "056",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "BGN": {
+    "name": {
+      "en": "Bulgarian Lev",
+      "de": "Bulgarischer Lew"
+    },
+    "symbol": "BGN",
+    "symbolNarrow": null,
+    "numeric": "975",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [
+      "BGR"
+    ],
+    "until": "2026-01",
+    "successor": "EUR"
+  },
+  "BHD": {
+    "name": {
+      "en": "Bahraini Dinar",
+      "de": "Bahrain-Dinar"
+    },
+    "symbol": "BHD",
+    "symbolNarrow": null,
+    "numeric": "048",
+    "minorUnit": 3,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BHR"
+    ]
+  },
+  "BIF": {
+    "name": {
+      "en": "Burundian Franc",
+      "de": "Burundi-Franc"
+    },
+    "symbol": "BIF",
+    "symbolNarrow": null,
+    "numeric": "108",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BDI"
+    ]
+  },
+  "BMD": {
+    "name": {
+      "en": "Bermudan Dollar",
+      "de": "Bermuda-Dollar"
+    },
+    "symbol": "BMD",
+    "symbolNarrow": "$",
+    "numeric": "060",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BMU"
+    ]
+  },
+  "BND": {
+    "name": {
+      "en": "Brunei Dollar",
+      "de": "Brunei-Dollar"
+    },
+    "symbol": "BND",
+    "symbolNarrow": "$",
+    "numeric": "096",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BRN"
+    ]
+  },
+  "BOB": {
+    "name": {
+      "en": "Bolivian Boliviano",
+      "de": "Bolivianischer Boliviano"
+    },
+    "symbol": "BOB",
+    "symbolNarrow": "Bs",
+    "numeric": "068",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BOL"
+    ]
+  },
+  "BOV": {
+    "name": {
+      "en": "Bolivian Mvdol",
+      "de": "Boliviansiche Mvdol"
+    },
+    "symbol": "BOV",
+    "symbolNarrow": null,
+    "numeric": "984",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BOL"
+    ]
+  },
+  "BRL": {
+    "name": {
+      "en": "Brazilian Real",
+      "de": "Brasilianischer Real"
+    },
+    "symbol": "R$",
+    "symbolNarrow": "R$",
+    "numeric": "986",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BRA"
+    ]
+  },
+  "BSD": {
+    "name": {
+      "en": "Bahamian Dollar",
+      "de": "Bahamas-Dollar"
+    },
+    "symbol": "BSD",
+    "symbolNarrow": "$",
+    "numeric": "044",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BHS"
+    ]
+  },
+  "BTN": {
+    "name": {
+      "en": "Bhutanese Ngultrum",
+      "de": "Bhutan-Ngultrum"
+    },
+    "symbol": "BTN",
+    "symbolNarrow": null,
+    "numeric": "064",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BTN"
+    ]
+  },
+  "BWP": {
+    "name": {
+      "en": "Botswanan Pula",
+      "de": "Botswanischer Pula"
+    },
+    "symbol": "BWP",
+    "symbolNarrow": "P",
+    "numeric": "072",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BWA"
+    ]
+  },
+  "BYN": {
+    "name": {
+      "en": "Belarusian Ruble",
+      "de": "Weißrussischer Rubel"
+    },
+    "symbol": "BYN",
+    "symbolNarrow": null,
+    "numeric": "933",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BLR"
+    ]
+  },
+  "BYR": {
+    "name": {
+      "en": "Belarusian Ruble (2000–2016)",
+      "de": "Weißrussischer Rubel (2000–2016)"
+    },
+    "symbol": "BYR",
+    "symbolNarrow": null,
+    "numeric": "974",
+    "minorUnit": 0,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2017-01",
+    "successor": "BYN"
+  },
+  "BZD": {
+    "name": {
+      "en": "Belize Dollar",
+      "de": "Belize-Dollar"
+    },
+    "symbol": "BZD",
+    "symbolNarrow": "$",
+    "numeric": "084",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BLZ"
+    ]
+  },
+  "CAD": {
+    "name": {
+      "en": "Canadian Dollar",
+      "de": "Kanadischer Dollar"
+    },
+    "symbol": "CA$",
+    "symbolNarrow": "$",
+    "numeric": "124",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CAN"
+    ]
+  },
+  "CDF": {
+    "name": {
+      "en": "Congolese Franc",
+      "de": "Kongo-Franc"
+    },
+    "symbol": "CDF",
+    "symbolNarrow": null,
+    "numeric": "976",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "COD"
+    ]
+  },
+  "CHE": {
+    "name": {
+      "en": "WIR Euro",
+      "de": "WIR-Euro"
+    },
+    "symbol": "CHE",
+    "symbolNarrow": null,
+    "numeric": "947",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CHE"
+    ]
+  },
+  "CHF": {
+    "name": {
+      "en": "Swiss Franc",
+      "de": "Schweizer Franken"
+    },
+    "symbol": "CHF",
+    "symbolNarrow": null,
+    "numeric": "756",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CHE",
+      "LIE"
+    ]
+  },
+  "CHW": {
+    "name": {
+      "en": "WIR Franc",
+      "de": "WIR Franken"
+    },
+    "symbol": "CHW",
+    "symbolNarrow": null,
+    "numeric": "948",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CHE"
+    ]
+  },
+  "CKD": {
+    "name": {
+      "en": "Cook Islands Dollar",
+      "de": "Cook-Islands-Dollar"
+    },
+    "symbol": "$",
+    "symbolNarrow": "$",
+    "numeric": null,
+    "minorUnit": 2,
+    "iso": false,
+    "active": true,
+    "countries": [
+      "COK"
+    ],
+    "note": "Circulates at par with NZD; no ISO 4217 code assigned."
+  },
+  "CLF": {
+    "name": {
+      "en": "Chilean Unit of Account (UF)",
+      "de": "Chilenische Unidades de Fomento"
+    },
+    "symbol": "CLF",
+    "symbolNarrow": null,
+    "numeric": "990",
+    "minorUnit": 4,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CHL"
+    ]
+  },
+  "CLP": {
+    "name": {
+      "en": "Chilean Peso",
+      "de": "Chilenischer Peso"
+    },
+    "symbol": "CLP",
+    "symbolNarrow": "$",
+    "numeric": "152",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CHL"
+    ]
+  },
+  "CNY": {
+    "name": {
+      "en": "Chinese Yuan",
+      "de": "Renminbi Yuan"
+    },
+    "symbol": "CN¥",
+    "symbolNarrow": "¥",
+    "numeric": "156",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CHN"
+    ]
+  },
+  "COP": {
+    "name": {
+      "en": "Colombian Peso",
+      "de": "Kolumbianischer Peso"
+    },
+    "symbol": "COP",
+    "symbolNarrow": "$",
+    "numeric": "170",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "COL"
+    ]
+  },
+  "COU": {
+    "name": {
+      "en": "Colombian Real Value Unit",
+      "de": "Kolumbianische Unidades de valor real"
+    },
+    "symbol": "COU",
+    "symbolNarrow": null,
+    "numeric": "970",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "CRC": {
+    "name": {
+      "en": "Costa Rican Colón",
+      "de": "Costa-Rica-Colón"
+    },
+    "symbol": "CRC",
+    "symbolNarrow": "₡",
+    "numeric": "188",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CRI"
+    ]
+  },
+  "CUC": {
+    "name": {
+      "en": "Cuban Convertible Peso",
+      "de": "Kubanischer Peso (konvertibel)"
+    },
+    "symbol": "CUC",
+    "symbolNarrow": "$",
+    "numeric": "931",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [
+      "CUB"
+    ],
+    "until": "2021-06",
+    "successor": "CUP"
+  },
+  "CUP": {
+    "name": {
+      "en": "Cuban Peso",
+      "de": "Kubanischer Peso"
+    },
+    "symbol": "CUP",
+    "symbolNarrow": "$",
+    "numeric": "192",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CUB"
+    ]
+  },
+  "CVE": {
+    "name": {
+      "en": "Cape Verdean Escudo",
+      "de": "Cabo-Verde-Escudo"
+    },
+    "symbol": "CVE",
+    "symbolNarrow": null,
+    "numeric": "132",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CPV"
+    ]
+  },
+  "CYP": {
+    "name": {
+      "en": "Cypriot Pound",
+      "de": "Zypern-Pfund"
+    },
+    "symbol": "CYP",
+    "symbolNarrow": null,
+    "numeric": "196",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2008-01",
+    "successor": "EUR"
+  },
+  "CZK": {
+    "name": {
+      "en": "Czech Koruna",
+      "de": "Tschechische Krone"
+    },
+    "symbol": "CZK",
+    "symbolNarrow": "Kč",
+    "numeric": "203",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CZE"
+    ]
+  },
+  "DEM": {
+    "name": {
+      "en": "German Mark",
+      "de": "Deutsche Mark"
+    },
+    "symbol": "DEM",
+    "symbolNarrow": null,
+    "numeric": "276",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "DJF": {
+    "name": {
+      "en": "Djiboutian Franc",
+      "de": "Dschibuti-Franc"
+    },
+    "symbol": "DJF",
+    "symbolNarrow": null,
+    "numeric": "262",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "DJI"
+    ]
+  },
+  "DKK": {
+    "name": {
+      "en": "Danish Krone",
+      "de": "Dänische Krone"
+    },
+    "symbol": "DKK",
+    "symbolNarrow": "kr",
+    "numeric": "208",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "DNK",
+      "FRO",
+      "GRL"
+    ]
+  },
+  "DOP": {
+    "name": {
+      "en": "Dominican Peso",
+      "de": "Dominikanischer Peso"
+    },
+    "symbol": "DOP",
+    "symbolNarrow": "$",
+    "numeric": "214",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "DOM"
+    ]
+  },
+  "DZD": {
+    "name": {
+      "en": "Algerian Dinar",
+      "de": "Algerischer Dinar"
+    },
+    "symbol": "DZD",
+    "symbolNarrow": null,
+    "numeric": "012",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "DZA",
+      "ESH"
+    ]
+  },
+  "EEK": {
+    "name": {
+      "en": "Estonian Kroon",
+      "de": "Estnische Krone"
+    },
+    "symbol": "EEK",
+    "symbolNarrow": null,
+    "numeric": "233",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2011-01",
+    "successor": "EUR"
+  },
+  "EGP": {
+    "name": {
+      "en": "Egyptian Pound",
+      "de": "Ägyptisches Pfund"
+    },
+    "symbol": "EGP",
+    "symbolNarrow": "E£",
+    "numeric": "818",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "EGY"
+    ]
+  },
+  "ERN": {
+    "name": {
+      "en": "Eritrean Nakfa",
+      "de": "Eritreischer Nakfa"
+    },
+    "symbol": "ERN",
+    "symbolNarrow": null,
+    "numeric": "232",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ERI"
+    ]
+  },
+  "ESP": {
+    "name": {
+      "en": "Spanish Peseta",
+      "de": "Spanische Peseta"
+    },
+    "symbol": "ESP",
+    "symbolNarrow": "₧",
+    "numeric": "724",
+    "minorUnit": 0,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "ETB": {
+    "name": {
+      "en": "Ethiopian Birr",
+      "de": "Äthiopischer Birr"
+    },
+    "symbol": "ETB",
+    "symbolNarrow": null,
+    "numeric": "230",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ETH"
+    ]
+  },
+  "EUR": {
+    "name": {
+      "en": "Euro",
+      "de": "Euro"
+    },
+    "symbol": "€",
+    "symbolNarrow": "€",
+    "numeric": "978",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ALA",
+      "AND",
+      "ATF",
+      "AUT",
+      "BEL",
+      "BGR",
+      "BLM",
+      "CYP",
+      "DEU",
+      "ESP",
+      "EST",
+      "FIN",
+      "FRA",
+      "GLP",
+      "GRC",
+      "GUF",
+      "HRV",
+      "IRL",
+      "ITA",
+      "LTU",
+      "LUX",
+      "LVA",
+      "MAF",
+      "MCO",
+      "MLT",
+      "MNE",
+      "MTQ",
+      "MYT",
+      "NLD",
+      "PRT",
+      "REU",
+      "SMR",
+      "SPM",
+      "SVK",
+      "SVN",
+      "UNK",
+      "VAT"
+    ]
+  },
+  "FIM": {
+    "name": {
+      "en": "Finnish Markka",
+      "de": "Finnische Mark"
+    },
+    "symbol": "FIM",
+    "symbolNarrow": null,
+    "numeric": "246",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "FJD": {
+    "name": {
+      "en": "Fijian Dollar",
+      "de": "Fidschi-Dollar"
+    },
+    "symbol": "FJD",
+    "symbolNarrow": "$",
+    "numeric": "242",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "FJI"
+    ]
+  },
+  "FKP": {
+    "name": {
+      "en": "Falkland Islands Pound",
+      "de": "Falkland-Pfund"
+    },
+    "symbol": "FKP",
+    "symbolNarrow": "£",
+    "numeric": "238",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "FLK"
+    ]
+  },
+  "FRF": {
+    "name": {
+      "en": "French Franc",
+      "de": "Französischer Franc"
+    },
+    "symbol": "FRF",
+    "symbolNarrow": null,
+    "numeric": "250",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "GBP": {
+    "name": {
+      "en": "British Pound",
+      "de": "Britisches Pfund"
+    },
+    "symbol": "£",
+    "symbolNarrow": "£",
+    "numeric": "826",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "GBR",
+      "GGY",
+      "IMN",
+      "JEY",
+      "SGS",
+      "SHN"
+    ]
+  },
+  "GEL": {
+    "name": {
+      "en": "Georgian Lari",
+      "de": "Georgischer Lari"
+    },
+    "symbol": "GEL",
+    "symbolNarrow": "₾",
+    "numeric": "981",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "GEO"
+    ]
+  },
+  "GHS": {
+    "name": {
+      "en": "Ghanaian Cedi",
+      "de": "Ghanaischer Cedi"
+    },
+    "symbol": "GHS",
+    "symbolNarrow": "GH₵",
+    "numeric": "936",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "GHA"
+    ]
+  },
+  "GIP": {
+    "name": {
+      "en": "Gibraltar Pound",
+      "de": "Gibraltar-Pfund"
+    },
+    "symbol": "GIP",
+    "symbolNarrow": "£",
+    "numeric": "292",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "GIB"
+    ]
+  },
+  "GMD": {
+    "name": {
+      "en": "Gambian Dalasi",
+      "de": "Gambia-Dalasi"
+    },
+    "symbol": "GMD",
+    "symbolNarrow": null,
+    "numeric": "270",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "GMB"
+    ]
+  },
+  "GNF": {
+    "name": {
+      "en": "Guinean Franc",
+      "de": "Guinea-Franc"
+    },
+    "symbol": "GNF",
+    "symbolNarrow": "FG",
+    "numeric": "324",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "GIN"
+    ]
+  },
+  "GRD": {
+    "name": {
+      "en": "Greek Drachma",
+      "de": "Griechische Drachme"
+    },
+    "symbol": "GRD",
+    "symbolNarrow": null,
+    "numeric": "300",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "GTQ": {
+    "name": {
+      "en": "Guatemalan Quetzal",
+      "de": "Guatemaltekischer Quetzal"
+    },
+    "symbol": "GTQ",
+    "symbolNarrow": "Q",
+    "numeric": "320",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "GTM"
+    ]
+  },
+  "GYD": {
+    "name": {
+      "en": "Guyanaese Dollar",
+      "de": "Guyana-Dollar"
+    },
+    "symbol": "GYD",
+    "symbolNarrow": "$",
+    "numeric": "328",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "GUY"
+    ]
+  },
+  "HKD": {
+    "name": {
+      "en": "Hong Kong Dollar",
+      "de": "Hongkong-Dollar"
+    },
+    "symbol": "HK$",
+    "symbolNarrow": "$",
+    "numeric": "344",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "HKG"
+    ]
+  },
+  "HNL": {
+    "name": {
+      "en": "Honduran Lempira",
+      "de": "Honduras-Lempira"
+    },
+    "symbol": "HNL",
+    "symbolNarrow": "L",
+    "numeric": "340",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "HND"
+    ]
+  },
+  "HRK": {
+    "name": {
+      "en": "Croatian Kuna",
+      "de": "Kroatischer Kuna"
+    },
+    "symbol": "HRK",
+    "symbolNarrow": "kn",
+    "numeric": "191",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [
+      "HRV"
+    ],
+    "until": "2023-01",
+    "successor": "EUR"
+  },
+  "HTG": {
+    "name": {
+      "en": "Haitian Gourde",
+      "de": "Haitianische Gourde"
+    },
+    "symbol": "HTG",
+    "symbolNarrow": null,
+    "numeric": "332",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "HTI"
+    ]
+  },
+  "HUF": {
+    "name": {
+      "en": "Hungarian Forint",
+      "de": "Ungarischer Forint"
+    },
+    "symbol": "HUF",
+    "symbolNarrow": "Ft",
+    "numeric": "348",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "HUN"
+    ]
+  },
+  "IDR": {
+    "name": {
+      "en": "Indonesian Rupiah",
+      "de": "Indonesische Rupiah"
+    },
+    "symbol": "IDR",
+    "symbolNarrow": "Rp",
+    "numeric": "360",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "IDN"
+    ]
+  },
+  "IEP": {
+    "name": {
+      "en": "Irish Pound",
+      "de": "Irisches Pfund"
+    },
+    "symbol": "IEP",
+    "symbolNarrow": null,
+    "numeric": "372",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "ILS": {
+    "name": {
+      "en": "Israeli New Shekel",
+      "de": "Israelischer Neuer Schekel"
+    },
+    "symbol": "₪",
+    "symbolNarrow": "₪",
+    "numeric": "376",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ISR",
+      "PSE"
+    ]
+  },
+  "INR": {
+    "name": {
+      "en": "Indian Rupee",
+      "de": "Indische Rupie"
+    },
+    "symbol": "₹",
+    "symbolNarrow": "₹",
+    "numeric": "356",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BTN",
+      "IND"
+    ]
+  },
+  "IQD": {
+    "name": {
+      "en": "Iraqi Dinar",
+      "de": "Irakischer Dinar"
+    },
+    "symbol": "IQD",
+    "symbolNarrow": null,
+    "numeric": "368",
+    "minorUnit": 3,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "IRQ"
+    ]
+  },
+  "IRR": {
+    "name": {
+      "en": "Iranian Rial",
+      "de": "Iranischer Rial"
+    },
+    "symbol": "IRR",
+    "symbolNarrow": null,
+    "numeric": "364",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "IRN"
+    ]
+  },
+  "ISK": {
+    "name": {
+      "en": "Icelandic Króna",
+      "de": "Isländische Krone"
+    },
+    "symbol": "ISK",
+    "symbolNarrow": "kr",
+    "numeric": "352",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ISL"
+    ]
+  },
+  "ITL": {
+    "name": {
+      "en": "Italian Lira",
+      "de": "Italienische Lira"
+    },
+    "symbol": "ITL",
+    "symbolNarrow": null,
+    "numeric": "380",
+    "minorUnit": 0,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "JMD": {
+    "name": {
+      "en": "Jamaican Dollar",
+      "de": "Jamaika-Dollar"
+    },
+    "symbol": "JMD",
+    "symbolNarrow": "$",
+    "numeric": "388",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "JAM"
+    ]
+  },
+  "JOD": {
+    "name": {
+      "en": "Jordanian Dinar",
+      "de": "Jordanischer Dinar"
+    },
+    "symbol": "JOD",
+    "symbolNarrow": null,
+    "numeric": "400",
+    "minorUnit": 3,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "JOR"
+    ]
+  },
+  "JPY": {
+    "name": {
+      "en": "Japanese Yen",
+      "de": "Japanischer Yen"
+    },
+    "symbol": "¥",
+    "symbolNarrow": "¥",
+    "numeric": "392",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "JPN"
+    ]
+  },
+  "KES": {
+    "name": {
+      "en": "Kenyan Shilling",
+      "de": "Kenia-Schilling"
+    },
+    "symbol": "KES",
+    "symbolNarrow": null,
+    "numeric": "404",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "KEN"
+    ]
+  },
+  "KGS": {
+    "name": {
+      "en": "Kyrgyz Som",
+      "de": "Kirgisischer Som"
+    },
+    "symbol": "KGS",
+    "symbolNarrow": "⃀",
+    "numeric": "417",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "KGZ"
+    ]
+  },
+  "KHR": {
+    "name": {
+      "en": "Cambodian Riel",
+      "de": "Kambodschanischer Riel"
+    },
+    "symbol": "KHR",
+    "symbolNarrow": "៛",
+    "numeric": "116",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "KHM"
+    ]
+  },
+  "KMF": {
+    "name": {
+      "en": "Comorian Franc",
+      "de": "Komoren-Franc"
+    },
+    "symbol": "KMF",
+    "symbolNarrow": "CF",
+    "numeric": "174",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "COM"
+    ]
+  },
+  "KPW": {
+    "name": {
+      "en": "North Korean Won",
+      "de": "Nordkoreanischer Won"
+    },
+    "symbol": "KPW",
+    "symbolNarrow": "₩",
+    "numeric": "408",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "PRK"
+    ]
+  },
+  "KRW": {
+    "name": {
+      "en": "South Korean Won",
+      "de": "Südkoreanischer Won"
+    },
+    "symbol": "₩",
+    "symbolNarrow": "₩",
+    "numeric": "410",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "KOR"
+    ]
+  },
+  "KWD": {
+    "name": {
+      "en": "Kuwaiti Dinar",
+      "de": "Kuwait-Dinar"
+    },
+    "symbol": "KWD",
+    "symbolNarrow": null,
+    "numeric": "414",
+    "minorUnit": 3,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "KWT"
+    ]
+  },
+  "KYD": {
+    "name": {
+      "en": "Cayman Islands Dollar",
+      "de": "Kaiman-Dollar"
+    },
+    "symbol": "KYD",
+    "symbolNarrow": "$",
+    "numeric": "136",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CYM"
+    ]
+  },
+  "KZT": {
+    "name": {
+      "en": "Kazakhstani Tenge",
+      "de": "Kasachischer Tenge"
+    },
+    "symbol": "KZT",
+    "symbolNarrow": "₸",
+    "numeric": "398",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "KAZ"
+    ]
+  },
+  "LAK": {
+    "name": {
+      "en": "Laotian Kip",
+      "de": "Laotischer Kip"
+    },
+    "symbol": "LAK",
+    "symbolNarrow": "₭",
+    "numeric": "418",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "LAO"
+    ]
+  },
+  "LBP": {
+    "name": {
+      "en": "Lebanese Pound",
+      "de": "Libanesisches Pfund"
+    },
+    "symbol": "LBP",
+    "symbolNarrow": "L£",
+    "numeric": "422",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "LBN"
+    ]
+  },
+  "LKR": {
+    "name": {
+      "en": "Sri Lankan Rupee",
+      "de": "Sri-Lanka-Rupie"
+    },
+    "symbol": "LKR",
+    "symbolNarrow": "Rs",
+    "numeric": "144",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "LKA"
+    ]
+  },
+  "LRD": {
+    "name": {
+      "en": "Liberian Dollar",
+      "de": "Liberianischer Dollar"
+    },
+    "symbol": "LRD",
+    "symbolNarrow": "$",
+    "numeric": "430",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "LBR"
+    ]
+  },
+  "LSL": {
+    "name": {
+      "en": "Lesotho Loti",
+      "de": "Loti"
+    },
+    "symbol": "LSL",
+    "symbolNarrow": null,
+    "numeric": "426",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "LSO"
+    ]
+  },
+  "LTL": {
+    "name": {
+      "en": "Lithuanian Litas",
+      "de": "Litauischer Litas"
+    },
+    "symbol": "LTL",
+    "symbolNarrow": "Lt",
+    "numeric": "440",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2014-12",
+    "successor": "EUR"
+  },
+  "LUF": {
+    "name": {
+      "en": "Luxembourgian Franc",
+      "de": "Luxemburgischer Franc"
+    },
+    "symbol": "LUF",
+    "symbolNarrow": null,
+    "numeric": "442",
+    "minorUnit": 0,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "LVL": {
+    "name": {
+      "en": "Latvian Lats",
+      "de": "Lettischer Lats"
+    },
+    "symbol": "LVL",
+    "symbolNarrow": "Ls",
+    "numeric": "428",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2014-01",
+    "successor": "EUR"
+  },
+  "LYD": {
+    "name": {
+      "en": "Libyan Dinar",
+      "de": "Libyscher Dinar"
+    },
+    "symbol": "LYD",
+    "symbolNarrow": null,
+    "numeric": "434",
+    "minorUnit": 3,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "LBY"
+    ]
+  },
+  "MAD": {
+    "name": {
+      "en": "Moroccan Dirham",
+      "de": "Marokkanischer Dirham"
+    },
+    "symbol": "MAD",
+    "symbolNarrow": null,
+    "numeric": "504",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ESH",
+      "MAR"
+    ]
+  },
+  "MDL": {
+    "name": {
+      "en": "Moldovan Leu",
+      "de": "Moldau-Leu"
+    },
+    "symbol": "MDL",
+    "symbolNarrow": null,
+    "numeric": "498",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MDA"
+    ]
+  },
+  "MGA": {
+    "name": {
+      "en": "Malagasy Ariary",
+      "de": "Madagaskar-Ariary"
+    },
+    "symbol": "MGA",
+    "symbolNarrow": "Ar",
+    "numeric": "969",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MDG"
+    ]
+  },
+  "MKD": {
+    "name": {
+      "en": "Macedonian Denar",
+      "de": "Mazedonischer Denar"
+    },
+    "symbol": "MKD",
+    "symbolNarrow": null,
+    "numeric": "807",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MKD"
+    ]
+  },
+  "MMK": {
+    "name": {
+      "en": "Myanmar Kyat",
+      "de": "Myanmarischer Kyat"
+    },
+    "symbol": "MMK",
+    "symbolNarrow": "K",
+    "numeric": "104",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MMR"
+    ]
+  },
+  "MNT": {
+    "name": {
+      "en": "Mongolian Tugrik",
+      "de": "Mongolischer Tögrög"
+    },
+    "symbol": "MNT",
+    "symbolNarrow": "₮",
+    "numeric": "496",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MNG"
+    ]
+  },
+  "MOP": {
+    "name": {
+      "en": "Macanese Pataca",
+      "de": "Macao-Pataca"
+    },
+    "symbol": "MOP",
+    "symbolNarrow": null,
+    "numeric": "446",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MAC"
+    ]
+  },
+  "MRO": {
+    "name": {
+      "en": "Mauritanian Ouguiya (1973–2017)",
+      "de": "Mauretanischer Ouguiya (1973–2017)"
+    },
+    "symbol": "MRO",
+    "symbolNarrow": null,
+    "numeric": "478",
+    "minorUnit": 0,
+    "iso": true,
+    "active": false,
+    "countries": [
+      "ESH",
+      "MRT"
+    ],
+    "until": "2017-12",
+    "successor": "MRU"
+  },
+  "MRU": {
+    "name": {
+      "en": "Mauritanian Ouguiya",
+      "de": "Mauretanischer Ouguiya"
+    },
+    "symbol": "MRU",
+    "symbolNarrow": null,
+    "numeric": "929",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ESH",
+      "MRT"
+    ]
+  },
+  "MTL": {
+    "name": {
+      "en": "Maltese Lira",
+      "de": "Maltesische Lira"
+    },
+    "symbol": "MTL",
+    "symbolNarrow": null,
+    "numeric": "470",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2008-01",
+    "successor": "EUR"
+  },
+  "MUR": {
+    "name": {
+      "en": "Mauritian Rupee",
+      "de": "Mauritius-Rupie"
+    },
+    "symbol": "MUR",
+    "symbolNarrow": "Rs",
+    "numeric": "480",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MUS"
+    ]
+  },
+  "MVR": {
+    "name": {
+      "en": "Maldivian Rufiyaa",
+      "de": "Malediven-Rufiyaa"
+    },
+    "symbol": "MVR",
+    "symbolNarrow": null,
+    "numeric": "462",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MDV"
+    ]
+  },
+  "MWK": {
+    "name": {
+      "en": "Malawian Kwacha",
+      "de": "Malawi-Kwacha"
+    },
+    "symbol": "MWK",
+    "symbolNarrow": null,
+    "numeric": "454",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MWI"
+    ]
+  },
+  "MXN": {
+    "name": {
+      "en": "Mexican Peso",
+      "de": "Mexikanischer Peso"
+    },
+    "symbol": "MX$",
+    "symbolNarrow": "$",
+    "numeric": "484",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MEX"
+    ]
+  },
+  "MXV": {
+    "name": {
+      "en": "Mexican Investment Unit",
+      "de": "Mexicanischer Unidad de Inversion (UDI)"
+    },
+    "symbol": "MXV",
+    "symbolNarrow": null,
+    "numeric": "979",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "MYR": {
+    "name": {
+      "en": "Malaysian Ringgit",
+      "de": "Malaysischer Ringgit"
+    },
+    "symbol": "MYR",
+    "symbolNarrow": "RM",
+    "numeric": "458",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MYS"
+    ]
+  },
+  "MZN": {
+    "name": {
+      "en": "Mozambican Metical",
+      "de": "Mosambikanischer Metical"
+    },
+    "symbol": "MZN",
+    "symbolNarrow": null,
+    "numeric": "943",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "MOZ"
+    ]
+  },
+  "NAD": {
+    "name": {
+      "en": "Namibian Dollar",
+      "de": "Namibia-Dollar"
+    },
+    "symbol": "NAD",
+    "symbolNarrow": "$",
+    "numeric": "516",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "NAM"
+    ]
+  },
+  "NGN": {
+    "name": {
+      "en": "Nigerian Naira",
+      "de": "Nigerianischer Naira"
+    },
+    "symbol": "NGN",
+    "symbolNarrow": "₦",
+    "numeric": "566",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "NGA"
+    ]
+  },
+  "NIO": {
+    "name": {
+      "en": "Nicaraguan Córdoba",
+      "de": "Nicaragua-Córdoba"
+    },
+    "symbol": "NIO",
+    "symbolNarrow": "C$",
+    "numeric": "558",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "NIC"
+    ]
+  },
+  "NLG": {
+    "name": {
+      "en": "Dutch Guilder",
+      "de": "Niederländischer Gulden"
+    },
+    "symbol": "NLG",
+    "symbolNarrow": null,
+    "numeric": "528",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "NOK": {
+    "name": {
+      "en": "Norwegian Krone",
+      "de": "Norwegische Krone"
+    },
+    "symbol": "NOK",
+    "symbolNarrow": "kr",
+    "numeric": "578",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BVT",
+      "NOR",
+      "SJM"
+    ]
+  },
+  "NPR": {
+    "name": {
+      "en": "Nepalese Rupee",
+      "de": "Nepalesische Rupie"
+    },
+    "symbol": "NPR",
+    "symbolNarrow": "Rs",
+    "numeric": "524",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "NPL"
+    ]
+  },
+  "NZD": {
+    "name": {
+      "en": "New Zealand Dollar",
+      "de": "Neuseeland-Dollar"
+    },
+    "symbol": "NZ$",
+    "symbolNarrow": "$",
+    "numeric": "554",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "COK",
+      "NIU",
+      "NZL",
+      "PCN",
+      "TKL"
+    ]
+  },
+  "OMR": {
+    "name": {
+      "en": "Omani Rial",
+      "de": "Omanischer Rial"
+    },
+    "symbol": "OMR",
+    "symbolNarrow": null,
+    "numeric": "512",
+    "minorUnit": 3,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "OMN"
+    ]
+  },
+  "PAB": {
+    "name": {
+      "en": "Panamanian Balboa",
+      "de": "Panamaischer Balboa"
+    },
+    "symbol": "PAB",
+    "symbolNarrow": null,
+    "numeric": "590",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "PAN"
+    ]
+  },
+  "PEN": {
+    "name": {
+      "en": "Peruvian Sol",
+      "de": "Peruanischer Sol"
+    },
+    "symbol": "PEN",
+    "symbolNarrow": null,
+    "numeric": "604",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "PER"
+    ]
+  },
+  "PGK": {
+    "name": {
+      "en": "Papua New Guinean Kina",
+      "de": "Papua-neuguineischer Kina"
+    },
+    "symbol": "PGK",
+    "symbolNarrow": null,
+    "numeric": "598",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "PNG"
+    ]
+  },
+  "PHP": {
+    "name": {
+      "en": "Philippine Peso",
+      "de": "Philippinischer Peso"
+    },
+    "symbol": "₱",
+    "symbolNarrow": "₱",
+    "numeric": "608",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "PHL"
+    ]
+  },
+  "PKR": {
+    "name": {
+      "en": "Pakistani Rupee",
+      "de": "Pakistanische Rupie"
+    },
+    "symbol": "PKR",
+    "symbolNarrow": "Rs",
+    "numeric": "586",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "PAK"
+    ]
+  },
+  "PLN": {
+    "name": {
+      "en": "Polish Zloty",
+      "de": "Polnischer Złoty"
+    },
+    "symbol": "PLN",
+    "symbolNarrow": "zł",
+    "numeric": "985",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "POL"
+    ]
+  },
+  "PTE": {
+    "name": {
+      "en": "Portuguese Escudo",
+      "de": "Portugiesischer Escudo"
+    },
+    "symbol": "PTE",
+    "symbolNarrow": null,
+    "numeric": "620",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2002-03",
+    "successor": "EUR"
+  },
+  "PYG": {
+    "name": {
+      "en": "Paraguayan Guarani",
+      "de": "Paraguayischer Guaraní"
+    },
+    "symbol": "PYG",
+    "symbolNarrow": "₲",
+    "numeric": "600",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "PRY"
+    ]
+  },
+  "QAR": {
+    "name": {
+      "en": "Qatari Riyal",
+      "de": "Katar-Riyal"
+    },
+    "symbol": "QAR",
+    "symbolNarrow": null,
+    "numeric": "634",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "QAT"
+    ]
+  },
+  "RON": {
+    "name": {
+      "en": "Romanian Leu",
+      "de": "Rumänischer Leu"
+    },
+    "symbol": "RON",
+    "symbolNarrow": "lei",
+    "numeric": "946",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ROU"
+    ]
+  },
+  "RSD": {
+    "name": {
+      "en": "Serbian Dinar",
+      "de": "Serbischer Dinar"
+    },
+    "symbol": "RSD",
+    "symbolNarrow": null,
+    "numeric": "941",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SRB"
+    ]
+  },
+  "RUB": {
+    "name": {
+      "en": "Russian Ruble",
+      "de": "Russischer Rubel"
+    },
+    "symbol": "RUB",
+    "symbolNarrow": "₽",
+    "numeric": "643",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "RUS"
+    ]
+  },
+  "RWF": {
+    "name": {
+      "en": "Rwandan Franc",
+      "de": "Ruanda-Franc"
+    },
+    "symbol": "RWF",
+    "symbolNarrow": "RF",
+    "numeric": "646",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "RWA"
+    ]
+  },
+  "SAR": {
+    "name": {
+      "en": "Saudi Riyal",
+      "de": "Saudi-Rial"
+    },
+    "symbol": "SAR",
+    "symbolNarrow": null,
+    "numeric": "682",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SAU"
+    ]
+  },
+  "SBD": {
+    "name": {
+      "en": "Solomon Islands Dollar",
+      "de": "Salomonen-Dollar"
+    },
+    "symbol": "SBD",
+    "symbolNarrow": "$",
+    "numeric": "090",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SLB"
+    ]
+  },
+  "SCR": {
+    "name": {
+      "en": "Seychellois Rupee",
+      "de": "Seychellen-Rupie"
+    },
+    "symbol": "SCR",
+    "symbolNarrow": null,
+    "numeric": "690",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SYC"
+    ]
+  },
+  "SDG": {
+    "name": {
+      "en": "Sudanese Pound",
+      "de": "Sudanesisches Pfund"
+    },
+    "symbol": "SDG",
+    "symbolNarrow": null,
+    "numeric": "938",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SDN"
+    ]
+  },
+  "SEK": {
+    "name": {
+      "en": "Swedish Krona",
+      "de": "Schwedische Krone"
+    },
+    "symbol": "SEK",
+    "symbolNarrow": "kr",
+    "numeric": "752",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SWE"
+    ]
+  },
+  "SGD": {
+    "name": {
+      "en": "Singapore Dollar",
+      "de": "Singapur-Dollar"
+    },
+    "symbol": "SGD",
+    "symbolNarrow": "$",
+    "numeric": "702",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SGP"
+    ]
+  },
+  "SHP": {
+    "name": {
+      "en": "St. Helena Pound",
+      "de": "St.-Helena-Pfund"
+    },
+    "symbol": "SHP",
+    "symbolNarrow": "£",
+    "numeric": "654",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SHN"
+    ]
+  },
+  "SIT": {
+    "name": {
+      "en": "Slovenian Tolar",
+      "de": "Slowenischer Tolar"
+    },
+    "symbol": "SIT",
+    "symbolNarrow": null,
+    "numeric": "705",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2007-01",
+    "successor": "EUR"
+  },
+  "SKK": {
+    "name": {
+      "en": "Slovak Koruna",
+      "de": "Slowakische Krone"
+    },
+    "symbol": "SKK",
+    "symbolNarrow": null,
+    "numeric": "703",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2009-01",
+    "successor": "EUR"
+  },
+  "SLE": {
+    "name": {
+      "en": "Sierra Leonean Leone",
+      "de": "Sierra-leonischer Leone"
+    },
+    "symbol": "SLE",
+    "symbolNarrow": null,
+    "numeric": "925",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SLE"
+    ]
+  },
+  "SLL": {
+    "name": {
+      "en": "Sierra Leonean Leone (1964—2022)",
+      "de": "Sierra-leonischer Leone (1964–2022)"
+    },
+    "symbol": "SLL",
+    "symbolNarrow": null,
+    "numeric": "694",
+    "minorUnit": 0,
+    "iso": true,
+    "active": false,
+    "countries": [
+      "SLE"
+    ],
+    "until": "2023-12",
+    "successor": "SLE"
+  },
+  "SOS": {
+    "name": {
+      "en": "Somali Shilling",
+      "de": "Somalia-Schilling"
+    },
+    "symbol": "SOS",
+    "symbolNarrow": null,
+    "numeric": "706",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SOM"
+    ]
+  },
+  "SRD": {
+    "name": {
+      "en": "Surinamese Dollar",
+      "de": "Suriname-Dollar"
+    },
+    "symbol": "SRD",
+    "symbolNarrow": "$",
+    "numeric": "968",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SUR"
+    ]
+  },
+  "SSP": {
+    "name": {
+      "en": "South Sudanese Pound",
+      "de": "Südsudanesisches Pfund"
+    },
+    "symbol": "SSP",
+    "symbolNarrow": "£",
+    "numeric": "728",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SSD"
+    ]
+  },
+  "STD": {
+    "name": {
+      "en": "São Tomé & Príncipe Dobra (1977–2017)",
+      "de": "São-toméischer Dobra (1977–2017)"
+    },
+    "symbol": "STD",
+    "symbolNarrow": null,
+    "numeric": "678",
+    "minorUnit": 0,
+    "iso": true,
+    "active": false,
+    "countries": [
+      "STP"
+    ],
+    "until": "2017-12",
+    "successor": "STN"
+  },
+  "STN": {
+    "name": {
+      "en": "São Tomé & Príncipe Dobra",
+      "de": "São-toméischer Dobra"
+    },
+    "symbol": "STN",
+    "symbolNarrow": "Db",
+    "numeric": "930",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "STP"
+    ]
+  },
+  "SVC": {
+    "name": {
+      "en": "Salvadoran Colón",
+      "de": "El Salvador Colon"
+    },
+    "symbol": "SVC",
+    "symbolNarrow": null,
+    "numeric": "222",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SLV"
+    ]
+  },
+  "SYP": {
+    "name": {
+      "en": "Syrian Pound",
+      "de": "Syrisches Pfund"
+    },
+    "symbol": "SYP",
+    "symbolNarrow": "£",
+    "numeric": "760",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SYR"
+    ]
+  },
+  "SZL": {
+    "name": {
+      "en": "Swazi Lilangeni",
+      "de": "Swasiländischer Lilangeni"
+    },
+    "symbol": "SZL",
+    "symbolNarrow": null,
+    "numeric": "748",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "SWZ"
+    ]
+  },
+  "THB": {
+    "name": {
+      "en": "Thai Baht",
+      "de": "Thailändischer Baht"
+    },
+    "symbol": "THB",
+    "symbolNarrow": "฿",
+    "numeric": "764",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "THA"
+    ]
+  },
+  "TJS": {
+    "name": {
+      "en": "Tajikistani Somoni",
+      "de": "Tadschikistan-Somoni"
+    },
+    "symbol": "TJS",
+    "symbolNarrow": null,
+    "numeric": "972",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "TJK"
+    ]
+  },
+  "TMT": {
+    "name": {
+      "en": "Turkmenistani Manat",
+      "de": "Turkmenistan-Manat"
+    },
+    "symbol": "TMT",
+    "symbolNarrow": null,
+    "numeric": "934",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "TKM"
+    ]
+  },
+  "TND": {
+    "name": {
+      "en": "Tunisian Dinar",
+      "de": "Tunesischer Dinar"
+    },
+    "symbol": "TND",
+    "symbolNarrow": null,
+    "numeric": "788",
+    "minorUnit": 3,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "TUN"
+    ]
+  },
+  "TOP": {
+    "name": {
+      "en": "Tongan Paʻanga",
+      "de": "Tongaischer Paʻanga"
+    },
+    "symbol": "TOP",
+    "symbolNarrow": "T$",
+    "numeric": "776",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "TON"
+    ]
+  },
+  "TRY": {
+    "name": {
+      "en": "Turkish Lira",
+      "de": "Türkische Lira"
+    },
+    "symbol": "TRY",
+    "symbolNarrow": "₺",
+    "numeric": "949",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "TUR"
+    ]
+  },
+  "TTD": {
+    "name": {
+      "en": "Trinidad & Tobago Dollar",
+      "de": "Trinidad-und-Tobago-Dollar"
+    },
+    "symbol": "TTD",
+    "symbolNarrow": "$",
+    "numeric": "780",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "TTO"
+    ]
+  },
+  "TWD": {
+    "name": {
+      "en": "New Taiwan Dollar",
+      "de": "Neuer Taiwan-Dollar"
+    },
+    "symbol": "NT$",
+    "symbolNarrow": "$",
+    "numeric": "901",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "TWN"
+    ]
+  },
+  "TZS": {
+    "name": {
+      "en": "Tanzanian Shilling",
+      "de": "Tansania-Schilling"
+    },
+    "symbol": "TZS",
+    "symbolNarrow": null,
+    "numeric": "834",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "TZA"
+    ]
+  },
+  "UAH": {
+    "name": {
+      "en": "Ukrainian Hryvnia",
+      "de": "Ukrainische Hrywnja"
+    },
+    "symbol": "UAH",
+    "symbolNarrow": "₴",
+    "numeric": "980",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "UKR"
+    ]
+  },
+  "UGX": {
+    "name": {
+      "en": "Ugandan Shilling",
+      "de": "Uganda-Schilling"
+    },
+    "symbol": "UGX",
+    "symbolNarrow": null,
+    "numeric": "800",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "UGA"
+    ]
+  },
+  "USD": {
+    "name": {
+      "en": "US Dollar",
+      "de": "US-Dollar"
+    },
+    "symbol": "$",
+    "symbolNarrow": "$",
+    "numeric": "840",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ASM",
+      "BES",
+      "ECU",
+      "FSM",
+      "GUM",
+      "HTI",
+      "IOT",
+      "MHL",
+      "MNP",
+      "PAN",
+      "PLW",
+      "PRI",
+      "SLV",
+      "TCA",
+      "TLS",
+      "UMI",
+      "USA",
+      "VGB",
+      "VIR"
+    ]
+  },
+  "USN": {
+    "name": {
+      "en": "US Dollar (Next day)",
+      "de": "US Dollar (Nächster Tag)"
+    },
+    "symbol": "USN",
+    "symbolNarrow": null,
+    "numeric": "997",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "USA"
+    ]
+  },
+  "USS": {
+    "name": {
+      "en": "US Dollar (Same day)",
+      "de": "US Dollar (Gleicher Tag)"
+    },
+    "symbol": "USS",
+    "symbolNarrow": null,
+    "numeric": "998",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [
+      "USA"
+    ],
+    "until": "2014-03",
+    "successor": "USD"
+  },
+  "UYI": {
+    "name": {
+      "en": "Uruguayan Peso (Indexed Units)",
+      "de": "Uruguayischer Peso (Indexierte Rechnungseinheiten)"
+    },
+    "symbol": "UYI",
+    "symbolNarrow": null,
+    "numeric": "940",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "URY"
+    ]
+  },
+  "UYU": {
+    "name": {
+      "en": "Uruguayan Peso",
+      "de": "Uruguayischer Peso"
+    },
+    "symbol": "UYU",
+    "symbolNarrow": "$",
+    "numeric": "858",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "URY"
+    ]
+  },
+  "UYW": {
+    "name": {
+      "en": "Uruguayan Nominal Wage Index Unit",
+      "de": "Uruguayan Nominal Wage Index Unit"
+    },
+    "symbol": "UYW",
+    "symbolNarrow": null,
+    "numeric": "927",
+    "minorUnit": 4,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "UZS": {
+    "name": {
+      "en": "Uzbekistani Som",
+      "de": "Usbekistan-Sum"
+    },
+    "symbol": "UZS",
+    "symbolNarrow": null,
+    "numeric": "860",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "UZB"
+    ]
+  },
+  "VED": {
+    "name": {
+      "en": "Bolívar Soberano",
+      "de": "Bolívar Soberano"
+    },
+    "symbol": "VED",
+    "symbolNarrow": null,
+    "numeric": "926",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "VEF": {
+    "name": {
+      "en": "Venezuelan Bolívar (2008–2018)",
+      "de": "Venezolanischer Bolívar (2008–2018)"
+    },
+    "symbol": "VEF",
+    "symbolNarrow": "Bs",
+    "numeric": "937",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [
+      "VEN"
+    ],
+    "until": "2018-08",
+    "successor": "VES"
+  },
+  "VES": {
+    "name": {
+      "en": "Venezuelan Bolívar",
+      "de": "Venezolanischer Bolívar"
+    },
+    "symbol": "VES",
+    "symbolNarrow": null,
+    "numeric": "928",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "VEN"
+    ]
+  },
+  "VND": {
+    "name": {
+      "en": "Vietnamese Dong",
+      "de": "Vietnamesischer Dong"
+    },
+    "symbol": "₫",
+    "symbolNarrow": "₫",
+    "numeric": "704",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "VNM"
+    ]
+  },
+  "VUV": {
+    "name": {
+      "en": "Vanuatu Vatu",
+      "de": "Vanuatu-Vatu"
+    },
+    "symbol": "VUV",
+    "symbolNarrow": null,
+    "numeric": "548",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "VUT"
+    ]
+  },
+  "WST": {
+    "name": {
+      "en": "Samoan Tala",
+      "de": "Samoanischer Tala"
+    },
+    "symbol": "WST",
+    "symbolNarrow": null,
+    "numeric": "882",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "WSM"
+    ]
+  },
+  "XAD": {
+    "name": {
+      "en": "Arab Accounting Dinar",
+      "de": "Arab Accounting Dinar"
+    },
+    "symbol": "XAD",
+    "symbolNarrow": null,
+    "numeric": "396",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XAF": {
+    "name": {
+      "en": "Central African CFA Franc",
+      "de": "CFA-Franc (BEAC)"
+    },
+    "symbol": "FCFA",
+    "symbolNarrow": null,
+    "numeric": "950",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CAF",
+      "CMR",
+      "COG",
+      "GAB",
+      "GNQ",
+      "TCD"
+    ]
+  },
+  "XAG": {
+    "name": {
+      "en": "Silver",
+      "de": "Unze Silber"
+    },
+    "symbol": "XAG",
+    "symbolNarrow": null,
+    "numeric": "961",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XAU": {
+    "name": {
+      "en": "Gold",
+      "de": "Unze Gold"
+    },
+    "symbol": "XAU",
+    "symbolNarrow": null,
+    "numeric": "959",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XBA": {
+    "name": {
+      "en": "European Composite Unit",
+      "de": "Europäische Rechnungseinheit"
+    },
+    "symbol": "XBA",
+    "symbolNarrow": null,
+    "numeric": "955",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XBB": {
+    "name": {
+      "en": "European Monetary Unit",
+      "de": "Europäische Währungseinheit (XBB)"
+    },
+    "symbol": "XBB",
+    "symbolNarrow": null,
+    "numeric": "956",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XBC": {
+    "name": {
+      "en": "European Unit of Account (XBC)",
+      "de": "Europäische Rechnungseinheit (XBC)"
+    },
+    "symbol": "XBC",
+    "symbolNarrow": null,
+    "numeric": "957",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XBD": {
+    "name": {
+      "en": "European Unit of Account (XBD)",
+      "de": "Europäische Rechnungseinheit (XBD)"
+    },
+    "symbol": "XBD",
+    "symbolNarrow": null,
+    "numeric": "958",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XCD": {
+    "name": {
+      "en": "East Caribbean Dollar",
+      "de": "Ostkaribischer Dollar"
+    },
+    "symbol": "EC$",
+    "symbolNarrow": "$",
+    "numeric": "951",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "AIA",
+      "ATG",
+      "DMA",
+      "GRD",
+      "KNA",
+      "LCA",
+      "MSR",
+      "VCT"
+    ]
+  },
+  "XCG": {
+    "name": {
+      "en": "Caribbean guilder",
+      "de": "Karibischer Gulden"
+    },
+    "symbol": "Cg.",
+    "symbolNarrow": null,
+    "numeric": "532",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "CUW",
+      "SXM"
+    ]
+  },
+  "XDR": {
+    "name": {
+      "en": "Special Drawing Rights",
+      "de": "Sonderziehungsrechte"
+    },
+    "symbol": "XDR",
+    "symbolNarrow": null,
+    "numeric": "960",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XOF": {
+    "name": {
+      "en": "West African CFA Franc",
+      "de": "CFA-Franc (BCEAO)"
+    },
+    "symbol": "F CFA",
+    "symbolNarrow": null,
+    "numeric": "952",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "BEN",
+      "BFA",
+      "CIV",
+      "GNB",
+      "MLI",
+      "NER",
+      "SEN",
+      "TGO"
+    ]
+  },
+  "XPD": {
+    "name": {
+      "en": "Palladium",
+      "de": "Unze Palladium"
+    },
+    "symbol": "XPD",
+    "symbolNarrow": null,
+    "numeric": "964",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XPF": {
+    "name": {
+      "en": "CFP Franc",
+      "de": "CFP-Franc"
+    },
+    "symbol": "CFPF",
+    "symbolNarrow": null,
+    "numeric": "953",
+    "minorUnit": 0,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "NCL",
+      "PYF",
+      "WLF"
+    ]
+  },
+  "XPT": {
+    "name": {
+      "en": "Platinum",
+      "de": "Unze Platin"
+    },
+    "symbol": "XPT",
+    "symbolNarrow": null,
+    "numeric": "962",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XSU": {
+    "name": {
+      "en": "Sucre",
+      "de": "SUCRE"
+    },
+    "symbol": "XSU",
+    "symbolNarrow": null,
+    "numeric": "994",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XTS": {
+    "name": {
+      "en": "Testing Currency Code",
+      "de": "Testwährung"
+    },
+    "symbol": "XTS",
+    "symbolNarrow": null,
+    "numeric": "963",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XUA": {
+    "name": {
+      "en": "ADB Unit of Account",
+      "de": "Rechnungseinheit der AfEB"
+    },
+    "symbol": "XUA",
+    "symbolNarrow": null,
+    "numeric": "965",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "XXX": {
+    "name": {
+      "en": "Unknown Currency",
+      "de": "Unbekannte Währung"
+    },
+    "symbol": "¤",
+    "symbolNarrow": null,
+    "numeric": "999",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": []
+  },
+  "YER": {
+    "name": {
+      "en": "Yemeni Rial",
+      "de": "Jemen-Rial"
+    },
+    "symbol": "YER",
+    "symbolNarrow": null,
+    "numeric": "886",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "YEM"
+    ]
+  },
+  "ZAR": {
+    "name": {
+      "en": "South African Rand",
+      "de": "Südafrikanischer Rand"
+    },
+    "symbol": "ZAR",
+    "symbolNarrow": "R",
+    "numeric": "710",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "LSO",
+      "NAM",
+      "ZAF"
+    ]
+  },
+  "ZMK": {
+    "name": {
+      "en": "Zambian Kwacha (1968–2012)",
+      "de": "Kwacha (1968–2012)"
+    },
+    "symbol": "ZMK",
+    "symbolNarrow": null,
+    "numeric": "894",
+    "minorUnit": 0,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2012-12",
+    "successor": "ZMW"
+  },
+  "ZMW": {
+    "name": {
+      "en": "Zambian Kwacha",
+      "de": "Kwacha"
+    },
+    "symbol": "ZMW",
+    "symbolNarrow": "ZK",
+    "numeric": "967",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ZMB"
+    ]
+  },
+  "ZWD": {
+    "name": {
+      "en": "Zimbabwean Dollar (1980–2008)",
+      "de": "Simbabwe-Dollar (1980–2008)"
+    },
+    "symbol": "ZWD",
+    "symbolNarrow": null,
+    "numeric": "716",
+    "minorUnit": 0,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2008-08",
+    "successor": "ZWG"
+  },
+  "ZWG": {
+    "name": {
+      "en": "Zimbabwean Gold",
+      "de": "Simbabwe-Gold"
+    },
+    "symbol": "ZWG",
+    "symbolNarrow": null,
+    "numeric": "924",
+    "minorUnit": 2,
+    "iso": true,
+    "active": true,
+    "countries": [
+      "ZWE"
+    ]
+  },
+  "ZWL": {
+    "name": {
+      "en": "Zimbabwean Dollar (2009–2024)",
+      "de": "Simbabwe-Dollar (2009)"
+    },
+    "symbol": "ZWL",
+    "symbolNarrow": null,
+    "numeric": "932",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [
+      "ZWE"
+    ],
+    "until": "2024-09",
+    "successor": "ZWG"
+  },
+  "ZWN": {
+    "name": {
+      "en": "Zimbabwe Dollar (new)",
+      "de": "Zimbabwe Dollar (new)"
+    },
+    "symbol": "ZWN",
+    "symbolNarrow": null,
+    "numeric": "942",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2006-09",
+    "successor": "ZWG"
+  },
+  "ZWR": {
+    "name": {
+      "en": "Zimbabwean Dollar (2008)",
+      "de": "Simbabwe-Dollar (2008)"
+    },
+    "symbol": "ZWR",
+    "symbolNarrow": null,
+    "numeric": "935",
+    "minorUnit": 2,
+    "iso": true,
+    "active": false,
+    "countries": [],
+    "until": "2009-06",
+    "successor": "ZWG"
+  }
+}

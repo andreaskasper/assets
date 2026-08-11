@@ -11,7 +11,7 @@ import time
 import urllib.parse
 import urllib.request
 
-UA = "andreaskazosper-assets-datagen/1.0 (+https://github.com/andreaskasper/assets)"
+UA = "andreaskasper-assets-datagen/1.0 (+https://github.com/andreaskasper/assets)"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 CACHE = os.path.join(ROOT, "tools", ".cache")
