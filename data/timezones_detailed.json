@@ -2544,7 +2544,7 @@
       68.3497,
       -133.7167
     ],
-    "comment": "Mountain - NT (west)",
+    "comment": "CST - NT (west)",
     "deprecated": false
   },
   "America/Iqaluit": {
@@ -3955,7 +3955,7 @@
       49.8833,
       -97.15
     ],
-    "comment": "Central - ON (west), Manitoba",
+    "comment": "EST - Manitoba, ON (northwest)",
     "deprecated": false
   },
   "America/Yakutat": {
