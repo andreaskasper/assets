@@ -2537,6 +2537,7 @@
     "dstOffsetMinutes": -360,
     "usesDst": true,
     "abbreviations": [
+      "CST",
       "MDT",
       "MST"
     ],
@@ -3949,7 +3950,8 @@
     "usesDst": true,
     "abbreviations": [
       "CDT",
-      "CST"
+      "CST",
+      "EST"
     ],
     "latlng": [
       49.8833,

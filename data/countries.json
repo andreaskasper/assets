@@ -1495,8 +1495,8 @@
         "flag": "🇦🇪",
         "currencyFormer": [],
         "unMember": true,
-        "population": 9890400,
-        "populationAsOf": "2020-01-01",
+        "population": 10100000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Asia"
         ],
@@ -4416,8 +4416,8 @@
         "flag": "🇧🇩",
         "currencyFormer": [],
         "unMember": true,
-        "population": 171466990,
-        "populationAsOf": "2023-01-01",
+        "population": 175686899,
+        "populationAsOf": "2025-01-01",
         "continents": [
             "Asia"
         ],
@@ -4804,8 +4804,8 @@
         "flag": "🇧🇭",
         "currencyFormer": [],
         "unMember": true,
-        "population": 1569666,
-        "populationAsOf": "2023-01-01",
+        "population": 2700000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Asia"
         ],
@@ -9969,8 +9969,8 @@
         "flag": "🇰🇲",
         "currencyFormer": [],
         "unMember": true,
-        "population": 902348,
-        "populationAsOf": "2022-01-01",
+        "population": 900000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -11918,8 +11918,8 @@
         "flag": "🇩🇯",
         "currencyFormer": [],
         "unMember": true,
-        "population": 1152944,
-        "populationAsOf": "2023-01-01",
+        "population": 1000000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -12685,8 +12685,8 @@
         "flag": "🇩🇿",
         "currencyFormer": [],
         "unMember": true,
-        "population": 46164219,
-        "populationAsOf": "2023-01-01",
+        "population": 45600000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -13074,8 +13074,8 @@
         "flag": "🇪🇬",
         "currencyFormer": [],
         "unMember": true,
-        "population": 107476864,
-        "populationAsOf": "2023-01-18",
+        "population": 114500000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -17215,7 +17215,7 @@
             "240"
         ],
         "capital": [
-            "Malabo"
+            "Ciudad de la Paz"
         ],
         "altSpellings": [
             "GQ",
@@ -21182,8 +21182,8 @@
         "flag": "🇮🇶",
         "currencyFormer": [],
         "unMember": true,
-        "population": 38274618,
-        "populationAsOf": "2017-01-01",
+        "population": 43500000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Asia"
         ],
@@ -22359,8 +22359,8 @@
         "flag": "🇯🇴",
         "currencyFormer": [],
         "unMember": true,
-        "population": 10428241,
-        "populationAsOf": "2019-06-19",
+        "population": 11300000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Asia"
         ],
@@ -24092,8 +24092,8 @@
         "flag": "🇰🇼",
         "currencyFormer": [],
         "unMember": true,
-        "population": 4464000,
-        "populationAsOf": "2020-01-01",
+        "population": 4300000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Asia"
         ],
@@ -24479,8 +24479,8 @@
         "flag": "🇱🇧",
         "currencyFormer": [],
         "unMember": true,
-        "population": 5261372,
-        "populationAsOf": "2021-07-01",
+        "population": 5300000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Asia"
         ],
@@ -24861,8 +24861,8 @@
         "flag": "🇱🇾",
         "currencyFormer": [],
         "unMember": true,
-        "population": 7381023,
-        "populationAsOf": "2024-01-01",
+        "population": 7100000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -26767,8 +26767,8 @@
         "flag": "🇲🇦",
         "currencyFormer": [],
         "unMember": true,
-        "population": 36828330,
-        "populationAsOf": "2024-01-01",
+        "population": 38300000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -29666,8 +29666,8 @@
             "MRO"
         ],
         "unMember": true,
-        "population": 4736139,
-        "populationAsOf": "2022-01-01",
+        "population": 4900000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -33342,8 +33342,8 @@
         "flag": "🇴🇲",
         "currencyFormer": [],
         "unMember": true,
-        "population": 4829480,
-        "populationAsOf": "2018-01-01",
+        "population": 5100000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Asia"
         ],
@@ -33910,8 +33910,8 @@
         "flag": "🇵🇳",
         "currencyFormer": [],
         "unMember": false,
-        "population": 50,
-        "populationAsOf": "2019-01-01",
+        "population": 47,
+        "populationAsOf": "2021-01-01",
         "continents": [
             "Insular Oceania"
         ],
@@ -35882,8 +35882,8 @@
         "flag": "🇵🇸",
         "currencyFormer": [],
         "unMember": false,
-        "population": 5227193,
-        "populationAsOf": "2021-01-01",
+        "population": 5400000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Asia"
         ],
@@ -37267,8 +37267,8 @@
         "startOfWeek": "sunday",
         "capitalInfo": {
             "latlng": [
-                24.65,
-                46.71
+                24.6383,
+                46.715
             ]
         },
         "car": {
@@ -37645,8 +37645,8 @@
         "flag": "🇸🇳",
         "currencyFormer": [],
         "unMember": true,
-        "population": 16876720,
-        "populationAsOf": "2021-01-01",
+        "population": 18100000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -39364,8 +39364,8 @@
         "flag": "🇸🇴",
         "currencyFormer": [],
         "unMember": true,
-        "population": 11031386,
-        "populationAsOf": "2017-01-01",
+        "population": 18100000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -41651,8 +41651,8 @@
         "flag": "🇸🇾",
         "currencyFormer": [],
         "unMember": true,
-        "population": 23865423,
-        "populationAsOf": "2024-01-01",
+        "population": 23000000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Asia"
         ],
@@ -42222,8 +42222,8 @@
         "flag": "🇹🇬",
         "currencyFormer": [],
         "unMember": true,
-        "population": 9515240,
-        "populationAsOf": "2024-01-01",
+        "population": 12400000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -43744,8 +43744,8 @@
         "flag": "🇹🇳",
         "currencyFormer": [],
         "unMember": true,
-        "population": 11972169,
-        "populationAsOf": "2024-01-01",
+        "population": 37100000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Africa"
         ],
@@ -47772,8 +47772,8 @@
         "flag": "🇾🇪",
         "currencyFormer": [],
         "unMember": true,
-        "population": 28250420,
-        "populationAsOf": "2017-01-01",
+        "population": 34400000,
+        "populationAsOf": "2026-01-01",
         "continents": [
             "Asia"
         ],

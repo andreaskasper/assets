@@ -497,7 +497,7 @@
       "de": "Schweizer Franken"
     },
     "symbol": "CHF",
-    "symbolNarrow": null,
+    "symbolNarrow": "Fr.",
     "numeric": "756",
     "minorUnit": 2,
     "iso": true,
